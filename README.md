@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Nitai Hen
+# NITAI HEN
 ### DevSecOps Engineer | Cybersecurity Professional | Infrastructure Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitai-hen-b74997200/)
@@ -161,18 +161,6 @@ Complete degree with focus on systems and security
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nitai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitaihen1998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel. app/api/top-langs/? username=nitaihen1998&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 What I Do
 
 - 🔒 **Secure Infrastructure**:  Design and implement secure cloud infrastructure
@@ -191,13 +179,3 @@ I'm always interested in discussing **DevSecOps**, **Cloud Security**, **Infrast
 - 💼 Open to collaboration on infrastructure and security projects
 - 🤝 Happy to share knowledge and learn from others
 - 📧 Feel free to reach out for professional networking
-
----
-
-<div align="center">
-
-### ⚡ "Automate Everything, Secure by Default"
-
-![Profile Views](https://komarev.com/ghpvc/?username=nitaihen1998&color=blue&style=for-the-badge)
-
-</div>
